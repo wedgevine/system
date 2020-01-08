@@ -1,13 +1,13 @@
-baseURL = "http://wedgevine.github.io/algo/"
+baseURL = "http://wedgevine.github.io/system/"
 languageCode = "en-us"
-title = "algo"
+title = "system"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "green"
+  themeVariant = "red"
 
 # For search functionality
 [outputs]
